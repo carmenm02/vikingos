@@ -1,2 +1,2 @@
 # vikingos
-El enlace de mi repositorio es <https://github.com/carmenm02/vikingos.git>
+Este es el link del [repositorio](https://github.com/carmenm02/vikingos.git)
